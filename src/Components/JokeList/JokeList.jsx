@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-// axios
+// import axios
 import axios from 'axios';
 // uuid import
 import uuid from 'uuid/dist/v4';
